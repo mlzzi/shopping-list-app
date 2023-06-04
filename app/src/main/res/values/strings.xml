@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shopping List App</string>
+    <string name="hint">Write a Food</string>
+    <string name="add_button">Add Food</string>
+    <string name="header">Make your Shopping List</string>
+    <string name="add_to_list">Add to List</string>
+    <string name="header_2">Select Addicional Food</string>
+    <string name="rice">Rice</string>
+    <string name="beans">Beans</string>
+    <string name="chicken">Chicken</string>
+    <string name="beer">Beer</string>
+    <string name="meat">Meat</string>
+    <string name="edittext_loc" />
+    <string name="favorite_store">Enter your favorite store</string>
+    <string name="button_loc">Open Location</string>
+</resources>
